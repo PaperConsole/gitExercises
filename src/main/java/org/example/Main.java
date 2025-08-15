@@ -10,6 +10,5 @@ Animal cat = new Animal("Mruczek", 3);
 Plant flower = new Plant(2, "Mak");
 Plant flower2 = new Plant(5, "Bratek");
 Car car = new Car(4, "Ford");
-Car car2 = new Car(5, "Sosna");
         }
     }

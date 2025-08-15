@@ -8,5 +8,6 @@ public class Main {
         Animal dog = new Animal("Azor", 5);
 Animal cat = new Animal("Mruczek", 3);
 Plant flower = new Plant(2, "Mak");
+Car car = new Car(4, "Ford");
         }
     }
